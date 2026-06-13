@@ -8,7 +8,7 @@ Designing user-friendly interfaces, building modern web applications, and explor
 
 <br>
 
-<a href="https://nxth-portfolio.netlify.app">
+<a href="https://nxth.netlify.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 
